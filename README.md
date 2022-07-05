@@ -1,3 +1,6 @@
 # 274
 descripción
 CAMBIO REMOTO
+
+
+CAMBIO LOCAL
